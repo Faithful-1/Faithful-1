@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Faith Uwagwu 👋
 
-<!--
-**Faithful-1/Faithful-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst passionate about transforming data into insights.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+- Excel
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## Featured Projects
+🔹 Sales Performance Dashboard  
+Power BI dashboard analyzing revenue trends and customer behavior.
+
+🔹 Customer Churn Analysis  
+Python project predicting customer churn using machine learning.
+
+🔹 SQL Data Exploration  
+Complex SQL queries to analyze large business datasets.
+
+## Tools
+Python | SQL | Power BI | Excel | Tableau
+
+## Connect with Me
+LinkedIn: linkedin.com/in/faith-uwagwu
+Email: richarduwagu2018@gmail.com , uwagwufaith@gmail.com
+
+- 😄 Pronouns: She / Her
 - ⚡ Fun fact: ...
 -->
